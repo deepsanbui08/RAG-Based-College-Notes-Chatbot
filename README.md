@@ -5,6 +5,7 @@ An AI-powered Telegram chatbot that allows users to upload PDF notes and ask que
 The bot extracts text from uploaded PDFs, generates embeddings using Sentence Transformers, stores them in a FAISS vector database, retrieves relevant information based on user queries, and generates answers using Mistral AI.
 
 ---
+🔗 Live Bot: https://t.me/rag_college_notes_ai_bot
 
 ## 🚀 Features
 
